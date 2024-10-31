@@ -1,5 +1,6 @@
 
                                Site and forums
+
 ===========================================================================
 
 |[KING](https://breachforums.st)
@@ -148,8 +149,7 @@
 |[Lampeduza](https://lampeduza.la)
 |[CRACKING](https://cracking.org)
 
-===========================================================================
-                          Telegram Groups and Channels
+Telegram Groups and Channels
 ===========================================================================
 
 |[Hacking Resources](https://t.me/+AZLvRq04uhQzMjVI)
@@ -163,7 +163,7 @@
 |[ARVIN](https://t.me/arvinclub1)
 |[burpsuite (not official)](https://t.me/burpsuite)
 |[HyperDbg](https://t.me/HyperDbg)
-|[Android Security & Malware](https://t.me/androidMalware) 
+|[Android Security & Malware](https://t.me/androidMalware)
 |[idapro (Not official)](https://t.me/idapro)
 |[PDF'S BIN'S FIRMWARES BANK](https://t.me/Anahissuarezdarlaindia)
 |[cRyPtHoN™ INFOSEC (EN)](https://t.me/cRyPtHoN_INFOSEC_EN)
@@ -187,12 +187,8 @@
 |[InfoSec NEWS](https://t.me/defcon_news)
 |[Zer0Day Lab](https://t.me/zer0daylab)
 
-
-
+Telegram Bots
 ===========================================================================
-                          Telegram Bots
-===========================================================================
-
 
 @InstaSaver - For use the bot, send a link from instagram
 @xvideosdwbot - Free bot for downloading twitter videos. Send link to tweet and get video
@@ -255,4 +251,4 @@
 @PhoneLeaks_bot - leak check
 @UniversalSearchRobot - shit but lan
 @n3fm4xw2rwbot - he bot was created by a detective almost like GB
-@VKHistoryRobot - finds staruyu VK profile info
+@VKHistoryRobot - finds staruyu VK profile inf
